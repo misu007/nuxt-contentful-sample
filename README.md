@@ -1,4 +1,4 @@
-# kanzan
+# Smaple App
 
 > My sweet Nuxt.js project
 
